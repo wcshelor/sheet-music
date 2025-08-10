@@ -1,0 +1,8 @@
+{
+    "name": "sheet-music-app",
+    "version": "0.1.0",
+    "scripts": {},
+    "devDependencies": {
+        "@tauri-apps/cli": "^2.7.1"
+    }
+}
